@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "currency-converter-lt": "^2.0.1",
+    "formidable": "^3.5.1",
+    "qrcode-terminal": "^0.12.0",
+    "slugify": "^1.6.6",
+    "upper-case": "^3.0.0"
+  }
+}
